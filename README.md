@@ -1,7 +1,7 @@
 # hw3
 
-Ссылка на google-форму: https://docs.google.com/forms/d/1n_eU9Wqbx3uKbNrcpYFkJgPRKIcNXCL8yFC_xGU2nRY
-Ссылка на exel-таблицу: https://docs.google.com/spreadsheets/d/1-XNhFUqmm1MwoceZ0pj6Ba2iuc2n8vWmJhmPzLR_uWw
+Ссылка на google-форму: https://docs.google.com/forms/d/1uaOwaBNgELnYVlSV4xVXoJQpy5yAot_GISsXbBMx7q4
+Ссылка на exel-таблицу: https://docs.google.com/spreadsheets/d/1Dua_P3J2MiSMov8pIKjwCx1h3lg2--lmors9WHRRc84 (фильтр - тмена по алфавиту)
 
 # Почему такая тема опроса: "Welcome to my Happy Birthday Party!
 Сбор гостей на День Рождения - это всегда трудная и кропотливая работа, которая требует много сил и времени. Именинник хочет всегда угодить гостям, но это не всегда получаетс, потому что у некоторых аллергия на определенные продукты, кто-то очень открытый, а кто-то, наоборот, любит тихо посидеть в углу и не привлекать к себе внимание и тд. Все вышеперечисленные доводы подтолкнули меня на мысль упростить себе задачу, поэтому я создала google-форму. У меня и правда скоро День Рождения (18 лет), поэтому мне хотелось организовать себе настоящий праздник. 
